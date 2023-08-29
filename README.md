@@ -1,1 +1,0 @@
-Esta es una app para consultar el clima en cualquier ciudad del mundo
